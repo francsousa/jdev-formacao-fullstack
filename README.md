@@ -1,2 +1,2 @@
 # jdev-formacao-fullstack
-Repositório de todo os códigos do treinamento
+Repositório de todo os códigos do treinamento Formação Java Web Full-Stack atualizados com as últimas versões disponíveis. Pude sentir que ao avançar no curso o instrutor Alex Egídio deixa alguns warnings e até mesmo alguns erros no código. Neste repositório tento deixar os códigos limpos e com as melhores práticas possíveis. Cada módulo do treinamento será dividido por pastas.
